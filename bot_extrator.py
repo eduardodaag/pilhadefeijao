@@ -12,7 +12,7 @@ URL_POST_DESAFIO = "https://www.instagram.com/p/DUlPXj9gCcQ/"
 ARQUIVO_SAIDA = 'palpites.csv'
 
 # --- CONFIGURAÇÕES GITHUB (IMPORTANTE) ---
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = ""
 GITHUB_REPO = "eduardodaag/pilhadefeijao" # Ex: guivieira/pilhadefeijao
 CAMINHO_LOCAL_REPOS = "./" # Pasta onde está o seu .git local
 
